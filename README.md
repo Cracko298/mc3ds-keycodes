@@ -1,6 +1,24 @@
 # mc3ds-keycodes
 keycodes, and address' for making macro's for minecraft 3ds.
 
+## Address':
+```
+===============
+KEYPAD ADDRESS'
+===============
+0x00B329E8
+0x00B32948
+0x00B32A00
+0x00B32A18
+0x00B32A30
+0x00B32A48
+0x00B32A60
+0x00B32A78
+0x00B32A90
+0x00B32AB0
+```
+
+## Keypad Hex Codes:
 ```
 ===================
 SPECIAL KEYPAD CODE
