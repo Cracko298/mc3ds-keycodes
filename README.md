@@ -1,6 +1,7 @@
 # mc3ds-keycodes
 - Keycodes, and Address' for making macro's for minecraft 3ds.
 - View full keypad/ctrpf AR docs [Here](https://gist.githubusercontent.com/Nanquitas/d6c920a59c757cf7917c2bffa76de860/raw/b842b0f3f4c9aeb1f33e61e2ad5c5feb5a5eb6cd/ActionReplayCodeTypes.txt).
+- They're also fully defined in the decomp if you'd like to see [Here](https://github.com/Cracko298/mc3ds-decomp/blob/main/source/include/keycodes.hpp).
 
 ## Address':
 ```
